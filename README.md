@@ -1,6 +1,6 @@
 # Plip Arduino Library
 
-This library allows Arduino boards to send Neimans Plip codes using an IR LED, for Renault key emulation.
+This library allows Arduino boards to send Neimans Plip codes using an IR LED, for Renault, Peugeor, Citreon (and others) key emulation.
 
 ## Author
 
